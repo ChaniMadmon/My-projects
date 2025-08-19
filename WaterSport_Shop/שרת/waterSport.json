@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "name": "משקפת שחייה מקצועית",
+    "category": "שחייה",
+    "price": 89.90,
+    "description": "משקפת עמידה במים עם הגנה מקרני UV",
+    "image": "/images/swimming_goggles.jpg",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "name": "כובע ים סיליקון",
+    "category": "שחייה",
+    "price": 29.00,
+    "description": "כובע איכותי ונוח להגנה על השיער",
+    "image": "/images/swim_cap.jpg",
+    "stock": 80
+  },
+  {
+    "id": 3,
+    "name": "סנפירי אימון",
+    "category": "שחייה",
+    "price": 119.00,
+    "description": "סנפירים קלים לאימון סיבולת",
+    "image": "/images/swim_fins.jpg",
+    "stock": 60
+  },
+  {
+    "id": 4,
+    "name": "קרש שחייה",
+    "category": "שחייה",
+    "price": 39.90,
+    "description": "קרש תמיכה לאימוני שחייה",
+    "image": "/images/swim_board.jpg",
+    "stock": 40
+  },
+  {
+    "id": 5,
+    "name": "שנורקל שחייה",
+    "category": "שחייה",
+    "price": 65.00,
+    "description": "שנורקל מותאם למקצוענים",
+    "image": "/images/snorkel.jpg",
+    "stock": 70
+  },
+  {
+    "id": 6,
+    "name": "ערכת שנורקלינג מלאה",
+    "category": "צלילה",
+    "price": 259.00,
+    "description": "כולל מסכה, שנורקל וסנפירים",
+    "image": "/images/snorkeling_set.jpg",
+    "stock": 30
+  },
+  {
+    "id": 7,
+    "name": "חליפת צלילה קצרה",
+    "category": "צלילה",
+    "price": 299.00,
+    "description": "חליפה תרמית לנוחות במים קרים",
+    "image": "/images/diving_suit.jpg",
+    "stock": 20
+  },
+  {
+    "id": 8,
+    "name": "מיכל חמצן",
+    "category": "צלילה",
+    "price": 1200.00,
+    "description": "מיכל חמצן תקני לצלילה עד 40 מטר",
+    "image": "/images/oxygen_tank.jpg",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "name": "מד עומק דיגיטלי",
+    "category": "צלילה",
+    "price": 750.00,
+    "description": "מד מדויק לצולל המתחיל והמקצוען",
+    "image": "/images/depth_meter.jpg",
+    "stock": 25
+  },
+  {
+    "id": 10,
+    "name": "פנס עמיד למים",
+    "category": "צלילה",
+    "price": 199.00,
+    "description": "פנס חזק לצלילה לילית",
+    "image": "/images/diving_flashlight.jpg",
+    "stock": 35
+  },
+  {
+    "id": 11,
+    "name": "גלשן גלים קצר",
+    "category": "גלישה",
+    "price": 599.00,
+    "description": "גלשן אידיאלי לגלים גבוהים",
+    "image": "/images/short_surfboard.jpg",
+    "stock": 15
+  },
+  {
+    "id": 12,
+    "name": "חבל לגרירה",
+    "category": "גלישה",
+    "price": 129.00,
+    "description": "חבל מקצועי לגרירה מאופנוע ים",
+    "image": "/images/tow_rope.jpg",
+    "stock": 45
+  },
+  {
+    "id": 13,
+    "name": "חליפת גלישה תרמית",
+    "category": "גלישה",
+    "price": 349.00,
+    "description": "חליפה מלאה לגלישה בחורף",
+    "image": "/images/surfing_suit.jpg",
+    "stock": 20
+  },
+  {
+    "id": 14,
+    "name": "רצועה לגלשן",
+    "category": "גלישה",
+    "price": 45.00,
+    "description": "רצועה אלסטית איכותית לקרסול",
+    "image": "/images/board_leash.jpg",
+    "stock": 60
+  },
+  {
+    "id": 15,
+    "name": "שעווה לגלשן",
+    "category": "גלישה",
+    "price": 15.00,
+    "description": "משפרת אחיזה על הגלשן",
+    "image": "/images/surf_wax.jpg",
+    "stock": 90
+  },
+  {
+    "id": 16,
+    "name": "משקפת צלילה מקצועית",
+    "category": "צלילה",
+    "price": 199.00,
+    "description": "משקפת איכותית עם עדשות נגד ערפל ופריים חזק",
+    "image": "/images/pro_diving_mask.jpg",
+    "stock": 25
+  },
+  {
+    "id": 17,
+    "name": "חליפת גלישה קצרה לילדים",
+    "category": "גלישה",
+    "price": 179.00,
+    "description": "חליפת גלישה נוחה וגמישה לילדים",
+    "image": "/images/kids_surf_suit.jpg",
+    "stock": 40
+  },
+  {
+    "id": 18,
+    "name": "כפפות צלילה Neoprene",
+    "category": "צלילה",
+    "price": 59.90,
+    "description": "כפפות מבודדות לשמירה על חום הידיים במים קרים",
+    "image": "/images/diving_gloves.jpg",
+    "stock": 50
+  },
+  {
+    "id": 19,
+    "name": "חוגלת שחייה מקצועית",
+    "category": "שחייה",
+    "price": 49.00,
+    "description": "חוגלת פלסטיק קשיחה המיועדת לאימוני שחייה",
+    "image": "/images/swim_paddle.jpg",
+    "stock": 35
+  },
+  {
+    "id": 20,
+    "name": "חליפת צלילה מלאה 5 מ\"מ",
+    "category": "צלילה",
+    "price": 549.00,
+    "description": "חליפה תרמית בעובי 5 מ\"מ לצלילה במים קרים",
+    "image": "/images/full_diving_suit.jpg",
+    "stock": 15
+  },
+
+  {
+    "id": 21,
+    "name": "משחה נגד זיהום",
+    "category": "שחייה",
+    "price": 22.50,
+    "description": "משחה להגנה על העור מפני זיהומים במים",
+    "image": "/images/anti_infection_cream.jpg",
+    "stock": 60
+  },
+  {
+    "id": 22,
+    "name": "כפכפי חוף",
+    "category": "כללי",
+    "price": 39.90,
+    "description": "כפכפים עמידים במים ונוחים להליכה בחוף",
+    "image": "/images/beach_slippers.jpg",
+    "stock": 120
+  },
+  {
+    "id": 23,
+    "name": "ערכת דייג בסיסית",
+    "category": "דייג",
+    "price": 159.00,
+    "description": "כוללת חכה, גלגל, פיתיונות וסל דייג",
+    "image": "/images/basic_fishing_set.jpg",
+    "stock": 22
+  },
+  {
+    "id": 24,
+    "name": "כובע רחב שוליים",
+    "category": "כללי",
+    "price": 55.00,
+    "description": "כובע להגנה מפני שמש בעמידות גבוהה",
+    "image": "/images/wide_brim_hat.jpg",
+    "stock": 45
+  },
+  {
+    "id": 25,
+    "name": "חגורת הצלה",
+    "category": "בטיחות",
+    "price": 220.00,
+    "description": "חגורה עם פלוטציות מובנות להצלה במים",
+    "image": "/images/life_jacket.jpg",
+    "stock": 30
+  }
+]
